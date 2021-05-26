@@ -3,7 +3,7 @@ import QuoteList from '../components/quotes/QuoteList';
 
 const AllQuote = () => {
   const DUMMY_QUOTES = [
-    { id: 1, author: 'mintu', text: 'Lorem sjdlfkjlksdjflkjsdf' },
+    { id: 1, author: 'mintu', text: 'Its raining heavily' },
     { id: 2, author: 'dimple', text: 'all in one' },
     { id: 3, author: 'krishnan', text: 'work hard' },
   ];
